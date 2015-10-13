@@ -1,0 +1,15 @@
+h1, h2, h3, h4, p, a {
+	font-family: monospace;
+	line-height: 2px;
+}
+
+.boxed {
+	background-color: black;
+	border: 5px solid gray;
+	color: white;
+}
+
+.postbackground {
+	background-color: black;
+	color: white;
+}
